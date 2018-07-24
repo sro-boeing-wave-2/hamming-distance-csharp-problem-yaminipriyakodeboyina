@@ -33,7 +33,7 @@ namespace Hamming
                     }
                    return hammingDistance;
                }     
-        }
+        } 
     }
 }
 
